@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>COURSES IN COMPUTER SCIENCE</title>
+</head>
+<body>
+<h1>COURSES AVAILABLE FOR CS STUDENTS</h1>
+<h2>DATASCIENCE</h2>
+<h2>OPERATING SYSTEM</h2>
+<h2>DBMS</h2>
+<h2>AIML</h2>
+<p> The datascience is useful forstudents they can become a data scientist</p>
+<p> OS is the course tha help student to learn about system of their pc </p>
+<p> DBMS is important course all must know and learn about sql and trees</p>
+<p>AIML is fully covered of robotics and AI</p>
+<h1> Practice Fields</h1>
+<h3>Github</h3>
+<h3>Hackerrank</h3>
+<h3>GeeksforGeeks</h3>
+</body>
+</html>
