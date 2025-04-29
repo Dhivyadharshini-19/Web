@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Commit Rollback</title>
+</head>
+<body>
+    <h1>Rollback to a Specific Commit</h1>
+    <form action="rollback.php" method="POST">
+        <label for="commit_id">Enter Commit ID:</label>
+        <input type="text" id="commit_id" name="commit_id" required>
+        <button type="submit">Rollback Commit</button>
+    </form>
+</body>
+</html>
